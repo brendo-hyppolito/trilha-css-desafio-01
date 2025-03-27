@@ -12,12 +12,14 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     padding: 16px 0;
+    margin: auto;
 }
 
 p {
     width: 792px;
     color: #ffffff;
     padding: 16px 0;
+    margin: auto;
 }
 
 a {
@@ -32,11 +34,13 @@ a {
     background-repeat: no-repeat;
     height: 650px;
     padding: 56px 0;
+    margin: auto;
     justify-items: center;
     border-bottom: 1px solid rgba(51, 168, 219, 1);
 }
 
 .banner .banner-content {
+    margin: auto;
     align-content: center;
     width: 513px;
     height: 393px;
@@ -85,6 +89,7 @@ a {
 #course-content {
     justify-items: center;
     padding: 80px 0;
+    margin: auto;
 }
 
 
@@ -98,7 +103,8 @@ a {
     height: auto;
     color: #ffffff;
     padding: 16px 0;
-    margin-bottom: 24px;
+    margin: auto;
+    margin-bottom: 24px;    
     background-color: rgba(37, 37, 37, 1);
     border: 1px solid rgba(51, 168, 219, 1);
     border-radius: 57px;
